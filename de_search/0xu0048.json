@@ -1,0 +1,15 @@
+[
+	{ "s": "HASHASHIN", "p": [7] },
+	{ "s": "HTML", "p": [12, 11, 7, 5, 3, 2] },
+	{ "s": "HTML-СПРАВКУ", "p": [12] },
+	{ "s": "HTTP", "p": [7] },
+	{ "s": "HTTP://CODE.GOOGLE.COM/P/CHROMIUM-COMPACT-LANGUAGE-DETECTOR", "p": [7] },
+	{ "s": "HTTP://WWW.ANTIGRAIN.COM", "p": [7] },
+	{ "s": "HTTP://WWW.ANTIGRAIN.COM/LICENSE/INDEX.HTML", "p": [7] },
+	{ "s": "HTTP://WWW.CRYPTOPP.COM", "p": [7] },
+	{ "s": "HTTP://WWW.CRYPTOPP.COM/LICENSE.TXT", "p": [7] },
+	{ "s": "HTTP://WWW.ICU-PROJECT.ORG", "p": [7] },
+	{ "s": "HTTPS", "p": [11, 10] },
+	{ "s": "HTTPS://WWW.DREXPLAIN.COM/ORDERING_FAQ", "p": [11] },
+	{ "s": "HTTPS://WWW.DREXPLAIN.RU/DOWNLOAD", "p": [10] }
+]
